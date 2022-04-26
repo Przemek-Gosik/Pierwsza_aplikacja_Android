@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Lab1 GUI</string>
+    <string name="second_fragment_label">Lab1 GUI</string>
+    <string name="next">Oceny</string>
+    <string name="next2">Super!</string>
+    <string name="next3">Wysyłam podanie o zaliczenie warunkowe</string>
+    <string name="previous">Oblicz średnia</string>
+    <string name="average">Twoja średnia wynosi: </string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string-array name="przedmioty">
+        <item>FIZ</item>
+        <item>MAT</item>
+        <item>SOP</item>
+        <item>BD</item>
+        <item>C++</item>
+        <item>JAVA</item>
+        <item>IOS</item>
+        <item>ELE</item>
+        <item>PYT</item>
+        <item>ENG</item>
+        <item>PHP</item>
+        <item>WEB</item>
+        <item>TC</item>
+        <item>GK</item>
+        <item>PIO</item>
+    </string-array>
+</resources>
